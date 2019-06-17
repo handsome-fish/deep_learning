@@ -1,0 +1,6 @@
+model_checkpoint_path: "ckp-01000"
+all_model_checkpoint_paths: "ckp-00600"
+all_model_checkpoint_paths: "ckp-00700"
+all_model_checkpoint_paths: "ckp-00800"
+all_model_checkpoint_paths: "ckp-00900"
+all_model_checkpoint_paths: "ckp-01000"
